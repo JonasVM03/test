@@ -1,14 +1,3 @@
-# Klar_Til_Test
+# Dette er en README
 goddag med dig.
 "Indsæt beskrivelse her"
-Det
-Er
-Idag
-Den
-Dag
-Vi
-Skal
-Holde
-Af
-goddag med dig.
-
